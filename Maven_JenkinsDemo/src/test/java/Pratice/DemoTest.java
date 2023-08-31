@@ -12,7 +12,7 @@ public class DemoTest {
 	@Test(groups="smokeTest")
  public void DemoTest()
  {
-		/*WebDriver driver;
+		WebDriver driver;
 		String Browser=System.getProperty("browser");
 		String URL=System.getProperty("url");
 		if(Browser.equalsIgnoreCase("chrome"))
@@ -35,7 +35,7 @@ public class DemoTest {
 			{
 				driver=new ChromeDriver();
 			}
-	 driver.get(URL);*/
+	 driver.get(URL);
 		System.out.println("hi");
 	 System.out.println("Git Pull Back");
 	 
